@@ -37,4 +37,8 @@ const Property = ({ property: { coverPhoto, price, rentFrequency, rooms, title, 
   </Link>
 );
 
+<<<<<<< HEAD
 export default Property;
+=======
+export default Property;
+>>>>>>> b2e8918 (first commit)
