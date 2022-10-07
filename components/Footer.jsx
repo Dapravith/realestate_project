@@ -6,8 +6,4 @@ const Footer = () => (
   </Box>
 );
 
-<<<<<<< HEAD
 export default Footer;
-=======
-export default Footer;
->>>>>>> b2e8918 (first commit)
