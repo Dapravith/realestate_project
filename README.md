@@ -3,11 +3,12 @@ Getting started
   $ git clone https://github.com/Dapravith/realestate_project.git
   2. Project setup
   
-      $ npm install
+      $npm install
       
   3. Run the project
   
-     $ npm run dev
+     $npm run dev
+     
   # or to build
   
      $npm run build
