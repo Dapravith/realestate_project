@@ -1,11 +1,11 @@
-Getting started
-  1. Clone the project
+#Getting started
+  #1. Clone the project
   $ git clone https://github.com/Dapravith/realestate_project.git
-  2. Project setup
+  #2. Project setup
   
       $npm install
       
-  3. Run the project
+  #3. Run the project
   
      $npm run dev
      
